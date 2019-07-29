@@ -69,4 +69,4 @@ kramdown:
   math_engine_opts:
     preview: true   # not default but better acessibility
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
